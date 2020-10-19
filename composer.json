@@ -1,0 +1,7 @@
+{
+    "name": "WC/Validation",
+    "description": "A library that will validate user input",
+    "require": {
+        "php": "^7.2"
+    }
+}
